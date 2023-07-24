@@ -1,0 +1,156 @@
+/* .img{    
+    width: 22%;
+    margin-left: 268px;
+}
+.mediaIcon1{
+    margin: 0px 0px 0px 56px;
+    font-size: 15px;
+    
+    width: 50px;
+    
+
+}
+
+.mediaIcon2{
+    margin: 0px 0px 0px 204px;
+    font-size: 15px;
+       width: 50px;
+    
+
+}
+.mediaIcon3{
+    margin: -39px 0px 0px 529px;
+    font-size: 15px;
+   
+    width: 50px;
+   
+
+}
+#dropdownMenuButton1{
+    color: rgba(10,111,243,255);
+    margin-left: 513px;
+   
+    margin-top: -94px;
+    font-size: 30px;
+    background-color: white;
+    border: white;
+}
+
+#iconId{
+   
+    padding-top: 27px;
+   
+    display: flex;
+
+}
+#gry{
+    color: gray;
+}
+#blue {
+ color:rgba(10,111,243,255);   
+}
+
+.result{
+    display: flex;
+}
+#red{
+    color: rgb(199, 60, 60);
+}
+#commentTextBox{
+    margin: 0px 0px 0px 151px;
+}
+#commnetButton{
+    background-color: rgba(10,111,243,255);
+    color: white;
+    
+}
+#commentSection{
+    margin: 7px 0px 0px 0px;
+   
+    width: 81%;
+}
+.mediaIconFav3{ 
+   
+    margin: -39px 0px 0px 529px;
+    font-size: 15px;
+   
+    width: 50px;
+      
+}
+.showComment{
+   
+    width: 100%;
+   
+}
+.showComment li{
+    list-style: none;
+    margin: 4px 0px 0px 112px;
+   
+    width: 67%;
+
+}
+#timeAgo{
+    margin: 0px 0px 0px 118px;
+    color: rgba(10,111,243,255);
+    position: relative;
+    font-size: 11px;
+} */
+#cardForPost{
+    padding: 10px;
+}
+#commentSection{
+    width: 90%;
+    margin-left:23px ;
+}
+.has{
+    color: rgba(10,111,243,255);
+}
+#mainDiv{
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(246, 243, 243);
+}
+#ago{
+    font-size: 15px;
+    /* border: solid rebeccapurple; */
+    color: rgba(10,111,243,255);
+    margin: -12px 48px 1px -3px;
+}
+#photoSlider{
+  margin-bottom: 23px;
+}
+.myimg{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border-radius: 15px;
+}
+#gry{
+    color: gray;
+}
+#blue {
+ color:rgba(10,111,243,255);   
+}
+#red{
+    color: rgb(199, 60, 60);
+}
+#commentBoxTimeAgo{
+    font-size: 15px;
+    color: rgba(10,111,243,255);
+}
+#planIcon{
+    font-size: 25px;
+}
+#commnetButton{
+    width: 50px;
+    height: 50px;
+}
+#dropdownMenuButton1{
+    background-color: white;
+    color: rgba(10,111,243,255);
+    font-size: 25px;
+    border: white;
+}

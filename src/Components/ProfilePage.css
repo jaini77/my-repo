@@ -1,0 +1,41 @@
+/* .mainDiv{
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(246, 243, 243);
+}
+.img{    
+    width: 22%;
+    margin-left: 268px;
+}
+
+#blue{
+   color:  rgba(10,111,243,255);   
+}
+
+#insediconId{
+   
+    padding-top: 27px;
+      display: flex;
+}
+#red{
+    color: rgb(228, 73, 73);
+}
+
+ */
+#display{
+    margin-top: 10px;
+}
+#mainCard{
+    border-radius: 15px;
+    border: 1px solid rgb(138, 135, 135);
+    margin-top: 12px;
+}
+#red{
+    color: rgb(228, 73, 73);
+}
+
+#blue{
+    color:  rgba(10,111,243,255);   
+ }
